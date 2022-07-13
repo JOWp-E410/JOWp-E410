@@ -38,3 +38,5 @@ Please enter the password:192ee2db192ee2db192ee2db192ee2db
 ````
 
 <details>picoCTF{4p0110_1n_7h3_h0us3_XXXXXXXX} where the X's should be a unique number, depending on the challenge.</details>
+
+#picoctf #pythonwrangling #generalskills
