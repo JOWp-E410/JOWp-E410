@@ -35,7 +35,6 @@ Following along with the description we're going to use the -d flag I assume is 
 ```` Terminal
 #python ende.py -d flag.txt.en
 Please enter the password:192ee2db192ee2db192ee2db192ee2db
-picoCTF{4p0110_1n_7h3_h0us3_XXXXXXXX}
 ````
 
-picoCTF{4p0110_1n_7h3_h0us3_XXXXXXXX}
+<details>picoCTF{4p0110_1n_7h3_h0us3_XXXXXXXX} where the X's should be a unique number, depending on the challenge.</details>
