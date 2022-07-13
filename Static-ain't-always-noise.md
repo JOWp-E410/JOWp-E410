@@ -3,7 +3,7 @@ PicoCTF Challenge Writeup, Static ain't always noise.
 
 **Description:**
 
-Can you look at the data in this binary: [static?](https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/static) This [BASH script](https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/ltdis.sh) might help!
+>Can you look at the data in this binary: [static?](https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/static) This [BASH script](https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/ltdis.sh) might help!
 
 >No Hints from pico, however...<details>The flag can be discovered plain text on line 35 of static</details>
 
@@ -43,3 +43,5 @@ $cat static.ltdis.strings.txt | grep pico
 ````
 
 <details>1020 picoCTF{d15a5m_t34s3r_XXXXXXXX} where X's should be a unique number depending on the challenge</details>
+
+Really wish I had just done the challenge and found the flag orgranically, low hanging fruit though.
