@@ -1,4 +1,4 @@
-Python Wrangling
+PicoCTF Challenge Writeup, Python Wrangling.
 ----------------
 Description
 
