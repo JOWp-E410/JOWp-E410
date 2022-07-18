@@ -44,4 +44,4 @@ $cat static.ltdis.strings.txt | grep pico
 
 <details>1020 picoCTF{d15a5m_t34s3r_XXXXXXXX} where X's should be a unique number depending on the challenge</details>
 
-Really wish I had just done the challenge and found the flag orgranically, low hanging fruit though.
+Wish I hadn't looked at the plain text first, but, sometimes it's that easy.
